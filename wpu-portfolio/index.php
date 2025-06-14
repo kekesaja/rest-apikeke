@@ -105,7 +105,7 @@ foreach ($result['data'] as $photo) {
             <p>nama saya Keke Nola Hasugian, perempuan berusia 21 tahun yang berasal dari Sibolga, Sumatra Utara. Saya memiliki hobi jalan-jalan dan sangat menikmati menjelajahi tempat-tempat baru untuk merasakan suasana yang berbeda dan keindahan alam. Dalam keseharian, saya dikenal sebagai pribadi yang ceria, ramah, dan mudah bergaul. Saya memiliki semangat petualang, senang mencoba hal-hal baru, serta mudah beradaptasi dengan lingkungan baru. Saya juga suka bertemu orang-orang baru dan menjalin hubungan yang positif dengan siapa saja.</p>
           </div>
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>aya adalah pribadi yang kreatif dan memiliki ketertarikan besar dalam dunia seni, khususnya melukis. Hobi melukis sudah saya tekuni sejak kecil dan terus saya kembangkan hingga sekarang. Bagi saya, melukis bukan hanya bentuk ekspresi diri, tetapi juga cara untuk menyampaikan pesan dan emosi melalui warna dan goresan. Saya senang mengeksplorasi berbagai media lukis dan terus belajar untuk memperkaya gaya dan teknik saya.</p>
           </div>
         </div>
       </div>
