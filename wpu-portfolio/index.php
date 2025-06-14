@@ -257,8 +257,8 @@ foreach ($result['data'] as $photo) {
             <ul class="list-group mb-4">
               <li class="list-group-item"><h3>Location</h3></li>
               <li class="list-group-item">My Office</li>
-              <li class="list-group-item">Jl.sudirman 03. 133, jakarta</li>
-              <li class="list-group-item">West Java, Indonesia</li>
+              <li class="list-group-item">Jl.sirandorung 02. 195, Sumatera utara</li>
+              <li class="list-group-item">, Indonesia</li>
             </ul>
           </div>
 
